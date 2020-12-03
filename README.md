@@ -1,5 +1,5 @@
-# Advent of Code 2020
+# Advent of Code 2020 🎅
 
-Maybe it get further this year 🤷‍♀️
+Maybe I'll get further this year 🤷‍♀️
 
-Have a go [here](https://adventofcode.com/2020)
+Have a go [here](https://adventofcode.com/2020).
